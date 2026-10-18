@@ -18,8 +18,7 @@ Sistema completo de análise de Bac Bo da Evolution Gaming, similar ao rnablack.
 | Streak 4+ | 4+ resultados iguais seguidos | 85% |
 | Alternância | Padrão Banker/Player alternado | 75% |
 | Viés estatístico | >60% de dominância | 70% |
-| Padrão 2+2 | BBPP ou PPBB | 80% |
-
+| Padrão 2+2 | BBPP ou PPBB | 80% | 
 ## Como Usar
 
 ### Localmente
